@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+input[type="file"] {
+    margin-bottom: 10px;
+}
+
+#map, #classifiedMap {
+    margin-top: 10px;
+    border: 1px solid black;
+}

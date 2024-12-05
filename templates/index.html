@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Satellite Image Classification</title>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/1.0.4/leaflet.draw.css"/>
+        <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/1.0.4/leaflet.draw.js"></script>
+        <link rel="stylesheet" href="/static/styles.css">
+    </head>
+    
+<body>
+    <input type="file" id="imageInput" title="Upload Image">
+    <div>
+        <input type="text" id="labelInput" placeholder="Enter class label">
+        <button id="saveLabelButton">Save Label</button>
+        <div id="labelsList"></div>  
+    </div>
+    <div id="map" style="height: 600px; border: 1px solid black;"></div>
+    <div>
+        <button id="classifyButton">Supervised Classify</button>
+        <div id="loadingMessage"></div>
+    </div>
+    <div id="classifiedMap" style="height: 600px; border: 1px solid black;"></div>
+    <div id="downloadArea1"></div>
+    <div id="accuracy"style="margin-top: 20px;"></div>
+    <div id="classificationReport"></div>
+    <div id="Confusion Matrix"></div>
+    <div id="downloadArea3"></div>
+    <div>
+        <input type="number" id="numClassesInput" placeholder="Number of classes">
+        <button id="unsupervisedClassifyButton">Unsupervised Classify</button>
+    </div>
+    <div id="unsupervisedMap" style="height: 600px; border: 1px solid black; margin-top: 20px;"></div>
+    <div id="downloadArea2"></div>
+    <script src="/static/scripts.js"></script>
+</body>
+</html>
