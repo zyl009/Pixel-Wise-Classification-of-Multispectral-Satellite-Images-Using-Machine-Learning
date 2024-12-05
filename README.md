@@ -19,7 +19,8 @@ This project utilizes the following open-source libraries:
 | **io** (built-in)      | Core input/output functionality               | Python Standard   |
 | **multiprocessing** (built-in) | Process-based parallelism support   | Python Standard   |
 - **Pillow**: Copyright © 2010-2024 by Alex Clark and contributors. Licensed under the HPND License.
-Each library is subject to its respective license. Refer to their documentation for more details.
+
+Each library is subject to its respective license.Refer to their documentation for more details.
 
 
 
