@@ -1,3 +1,5 @@
+# This project is licensed under the MIT License
+# See the LICENSE file in the project root for more information.
 from flask import Flask, render_template, request, jsonify
 import os
 import numpy as np
