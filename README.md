@@ -3,6 +3,7 @@
 ### This project is licensed under the MIT License
 ### See the LICENSE file in the project root for more information.
 
+This project, titled "Pixel-Wise Classification of Multispectral Satellite Images Using Machine Learning", presents a cloud-based application for pixel-wise classification of multispectral satellite images using machine learning. It supports both supervised (KNN with Euclidean distance) and unsupervised (K-means) classification, enabling users to upload GeoTIFF images, select training samples, and classify land cover types. The application features a user-friendly interface designed to simplified the process of image classification.
 
 ## Dependencies and Licenses
 
