@@ -8,7 +8,6 @@ from PIL import Image
 import io
 import base64
 from io import BytesIO
-from multiprocessing import Pool
 import matplotlib.pyplot as plt
 from shapely.geometry import Point, Polygon
 from matplotlib.colors import ListedColormap
