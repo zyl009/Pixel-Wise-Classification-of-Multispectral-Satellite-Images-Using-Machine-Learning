@@ -1,7 +1,7 @@
 # Pixel-Wise-Classification-of-Multispectral-Satellite-Images-Using-Machine-Learning
 
-## This project is licensed under the MIT License
-## See the LICENSE file in the project root for more information.
+### This project is licensed under the MIT License
+### See the LICENSE file in the project root for more information.
 
 
 ## Dependencies and Licenses
