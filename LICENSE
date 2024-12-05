@@ -22,3 +22,9 @@ SOFTWARE.
 
 This software is licensed under the MIT License, with the following exception:
 For commercial use of this software or any derived work, prior written consent and a licensing fee agreement with the author is required.
+## Third-Party Licenses
+
+This project uses the following third-party library:
+
+- Pillow: Copyright © 2010-2024 by Alex Clark and contributors.
+  Licensed under the HPND License.
