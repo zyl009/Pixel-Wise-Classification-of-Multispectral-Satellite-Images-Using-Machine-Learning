@@ -1,3 +1,7 @@
+/* 
+This project is licensed under the MIT License
+See the LICENSE file in the project root for more information.
+*/
 let imagePath = '';
 let map;
 let drawnItems = new L.FeatureGroup();
