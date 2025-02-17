@@ -76,7 +76,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Author
-Liang Zhongyou – [GitHub Profile](https://github.com/zyl009)
+- Liang Zhongyou – [GitHub Profile](https://github.com/zyl009)
 ---
 
 
