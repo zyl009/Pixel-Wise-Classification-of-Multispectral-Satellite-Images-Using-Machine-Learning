@@ -47,7 +47,7 @@ The application has been published via Microsoft Azure. You can click the [link]
    - For supervised classification, select training samples on the image. For unsupervised classification, input the number of classes.
    - View and analyze the resulting classified image.
 
-See the [report](report.pdf) and [slides](projrct_slides.pptx) file for more details.
+See the [report](report.pdf) and [slides](project_slides.pptx) file for more details.
 
 ## Dependencies
 This project utilizes the following open-source libraries:
